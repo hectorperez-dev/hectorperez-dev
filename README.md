@@ -4,7 +4,7 @@
 
 **Junior Full-Stack Developer** · Tijuana, México
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorperez)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-daniel-perez-villegas-20b31943b)
 
 </div>
 
@@ -47,7 +47,7 @@ Consumo de APIs RESTful integrando modelos LLM para procesamiento de datos, cont
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorperez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-daniel-perez-villegas-20b31943b)
 [![Email](https://img.shields.io/badge/hectorperezdv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorperezdv@gmail.com)
 
 </div>
