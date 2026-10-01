@@ -27,22 +27,6 @@ Soy **Técnico Superior Universitario (TSU)** enfocado en construir aplicaciones
 | **Bases de datos** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **DevOps & herramientas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-## 💼 Proyectos destacados
-
-### 📅 Sistema de Gestión de Horarios Académicos — UTT
-
-Plataforma Full-Stack para la automatización y optimización de la asignación de horarios en la Universidad Tecnológica de Tijuana.
-
-`React` · `Node.js` · `MongoDB`
-
-### 🤖 Integración de IA Generativa
-
-Consumo de APIs RESTful integrando modelos LLM para procesamiento de datos, containerizado para su despliegue en producción.
-
-`Next.js` · `TypeScript` · `Docker`
-
----
-
 ## 📫 Conecta conmigo
 
 <div align="center">
