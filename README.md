@@ -1,32 +1,59 @@
-# 👋 Hola, soy Hector Perez
+<div align="center">
 
-### 🚀 Junior Full-Stack Developer | Tijuana, México
+# Hola, soy Héctor Pérez 👋
 
-Soy un desarrollador de software (TSU) enfocado en construir aplicaciones web modernas, escalables y eficientes. Me apasiona resolver problemas complejos conectando el desarrollo web con modelos de Inteligencia Artificial y aplicando buenas prácticas de código limpio.
+**Junior Full-Stack Developer** · Tijuana, México
 
-## 🛠️ Stack Tecnológico
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorperez)
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
-**Backend & Bases de Datos:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-**DevOps & Herramientas:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🧑‍💻 Sobre mí
 
-## 💼 Proyectos Destacados
+Soy **Técnico Superior Universitario (TSU)** enfocado en construir aplicaciones web modernas, escalables y eficientes. Me apasiona resolver problemas complejos conectando el desarrollo web con modelos de **Inteligencia Artificial** y aplicando buenas prácticas de **código limpio**.
 
-* 📅 **Sistema de Gestión de Horarios Académicos (UTT):** Plataforma Full-Stack para la automatización y optimización de asignación de horarios. *(React, Node.js, MongoDB)*
-* 🤖 **Integración de IA Generativa:** Consumo de APIs RESTful integrando modelos LLM para procesamiento de datos, containerizado para su despliegue. *(Next.js, TypeScript, Docker)*
+- 🎓 Formación: Técnico Superior Universitario en programación y desarrollo de software
+- 💻 Foco: desarrollo Full-Stack con **React**, **Next.js** y **Node.js**
+- 🤖 Interés: integrar modelos de IA (LLM) en productos reales y ponerlos en producción
+
+## 🛠️ Stack tecnológico
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Bases de datos** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps & herramientas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+## 💼 Proyectos destacados
+
+### 📅 Sistema de Gestión de Horarios Académicos — UTT
+
+Plataforma Full-Stack para la automatización y optimización de la asignación de horarios en la Universidad Tecnológica de Tijuana.
+
+`React` · `Node.js` · `MongoDB`
+
+### 🤖 Integración de IA Generativa
+
+Consumo de APIs RESTful integrando modelos LLM para procesamiento de datos, containerizado para su despliegue en producción.
+
+`Next.js` · `TypeScript` · `Docker`
+
+---
 
 ## 📫 Conecta conmigo
-* 💼 **LinkedIn:** [linkedin.com/in/hectorperez](https://www.linkedin.com/in/hectorperez)
-* 📧 **Email:** hectorperezdv@gmail.com
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorperez)
+[![Email](https://img.shields.io/badge/hectorperezdv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorperezdv@gmail.com)
+
+</div>
+
+<div align="center">
+
+<sub>Hecho con 💙 en Tijuana, México</sub>
+
+</div>
