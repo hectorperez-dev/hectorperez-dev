@@ -48,7 +48,7 @@ Consumo de APIs RESTful integrando modelos LLM para procesamiento de datos, cont
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-daniel-perez-villegas-20b31943b)
-[![Email](https://img.shields.io/badge/hectorperezdv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorperezdv@gmail.com)
+[![Email](https://img.shields.io/badge/hectorvillegasdp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectorvillegasdp@gmail.com)
 
 </div>
 
